@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ThreadLifecycle/1.0.0": {
+        "runtime": {
+          "ThreadLifecycle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadLifecycle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
