@@ -1,0 +1,14 @@
+C:\Users\232427\RaceLab\bin\Debug\net9.0\RaceLab.exe
+C:\Users\232427\RaceLab\bin\Debug\net9.0\RaceLab.deps.json
+C:\Users\232427\RaceLab\bin\Debug\net9.0\RaceLab.runtimeconfig.json
+C:\Users\232427\RaceLab\bin\Debug\net9.0\RaceLab.dll
+C:\Users\232427\RaceLab\bin\Debug\net9.0\RaceLab.pdb
+C:\Users\232427\RaceLab\obj\Debug\net9.0\RaceLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232427\RaceLab\obj\Debug\net9.0\RaceLab.AssemblyInfoInputs.cache
+C:\Users\232427\RaceLab\obj\Debug\net9.0\RaceLab.AssemblyInfo.cs
+C:\Users\232427\RaceLab\obj\Debug\net9.0\RaceLab.csproj.CoreCompileInputs.cache
+C:\Users\232427\RaceLab\obj\Debug\net9.0\RaceLab.dll
+C:\Users\232427\RaceLab\obj\Debug\net9.0\refint\RaceLab.dll
+C:\Users\232427\RaceLab\obj\Debug\net9.0\RaceLab.pdb
+C:\Users\232427\RaceLab\obj\Debug\net9.0\RaceLab.genruntimeconfig.cache
+C:\Users\232427\RaceLab\obj\Debug\net9.0\ref\RaceLab.dll

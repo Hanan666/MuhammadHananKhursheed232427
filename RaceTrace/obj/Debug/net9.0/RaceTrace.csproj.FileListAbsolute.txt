@@ -1,0 +1,14 @@
+C:\Users\232427\RaceTrace\bin\Debug\net9.0\RaceTrace.exe
+C:\Users\232427\RaceTrace\bin\Debug\net9.0\RaceTrace.deps.json
+C:\Users\232427\RaceTrace\bin\Debug\net9.0\RaceTrace.runtimeconfig.json
+C:\Users\232427\RaceTrace\bin\Debug\net9.0\RaceTrace.dll
+C:\Users\232427\RaceTrace\bin\Debug\net9.0\RaceTrace.pdb
+C:\Users\232427\RaceTrace\obj\Debug\net9.0\RaceTrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232427\RaceTrace\obj\Debug\net9.0\RaceTrace.AssemblyInfoInputs.cache
+C:\Users\232427\RaceTrace\obj\Debug\net9.0\RaceTrace.AssemblyInfo.cs
+C:\Users\232427\RaceTrace\obj\Debug\net9.0\RaceTrace.csproj.CoreCompileInputs.cache
+C:\Users\232427\RaceTrace\obj\Debug\net9.0\RaceTrace.dll
+C:\Users\232427\RaceTrace\obj\Debug\net9.0\refint\RaceTrace.dll
+C:\Users\232427\RaceTrace\obj\Debug\net9.0\RaceTrace.pdb
+C:\Users\232427\RaceTrace\obj\Debug\net9.0\RaceTrace.genruntimeconfig.cache
+C:\Users\232427\RaceTrace\obj\Debug\net9.0\ref\RaceTrace.dll

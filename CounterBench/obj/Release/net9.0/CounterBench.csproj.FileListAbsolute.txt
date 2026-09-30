@@ -1,0 +1,14 @@
+C:\Users\232427\CounterBench\bin\Release\net9.0\CounterBench.exe
+C:\Users\232427\CounterBench\bin\Release\net9.0\CounterBench.deps.json
+C:\Users\232427\CounterBench\bin\Release\net9.0\CounterBench.runtimeconfig.json
+C:\Users\232427\CounterBench\bin\Release\net9.0\CounterBench.dll
+C:\Users\232427\CounterBench\bin\Release\net9.0\CounterBench.pdb
+C:\Users\232427\CounterBench\obj\Release\net9.0\CounterBench.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232427\CounterBench\obj\Release\net9.0\CounterBench.AssemblyInfoInputs.cache
+C:\Users\232427\CounterBench\obj\Release\net9.0\CounterBench.AssemblyInfo.cs
+C:\Users\232427\CounterBench\obj\Release\net9.0\CounterBench.csproj.CoreCompileInputs.cache
+C:\Users\232427\CounterBench\obj\Release\net9.0\CounterBench.dll
+C:\Users\232427\CounterBench\obj\Release\net9.0\refint\CounterBench.dll
+C:\Users\232427\CounterBench\obj\Release\net9.0\CounterBench.pdb
+C:\Users\232427\CounterBench\obj\Release\net9.0\CounterBench.genruntimeconfig.cache
+C:\Users\232427\CounterBench\obj\Release\net9.0\ref\CounterBench.dll
