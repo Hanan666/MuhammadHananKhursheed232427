@@ -1,0 +1,19 @@
+Machine (7945MB total)
+  Package L#0
+    NUMANode L#0 (P#0 7945MB)
+    L3 L#0 (16MB)
+      L2 L#0 (512KB) + L1d L#0 (32KB) + L1i L#0 (32KB) + Core L#0
+        PU L#0 (P#0)
+        PU L#1 (P#1)
+      L2 L#1 (512KB) + L1d L#1 (32KB) + L1i L#1 (32KB) + Core L#1
+        PU L#2 (P#2)
+        PU L#3 (P#3)
+    Net "eth0"
+  HostBridge
+    PCI 5582:00:00.0 (SCSI)
+  HostBridge
+    PCI f365:00:00.0 (3D)
+  Block(Disk) "sdd"
+  Block(Disk) "sdb"
+  Block(Disk) "sdc"
+  Block(Disk) "sda"
