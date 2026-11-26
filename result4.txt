@@ -1,0 +1,12 @@
+workload=mandelbrot 1200x800 maxit=1000 threads=4 serial=709.3 checksum=193992301 (times in ms)
+csv_header,policy,worker,units,finish_ms
+[static ] row blocks    wall=298.1 imbalance=10.04 efficiency=59% correct=YES
+csv,static,0,200,29.68
+csv,static,1,200,298.00
+csv,static,2,200,295.58
+csv,static,3,200,29.85
+[dynamic] units of rows wall=153.6 imbalance=1.00 efficiency=115% correct=YES
+csv,dynamic,0,47,153.00
+csv,dynamic,1,53,152.95
+csv,dynamic,2,48,153.16
+csv,dynamic,3,52,152.98

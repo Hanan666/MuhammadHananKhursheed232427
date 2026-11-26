@@ -1,0 +1,12 @@
+workload=mandelbrot 1200x800 maxit=1000 ranks=5 (1 master, 4 workers) serial=677.0 (times in ms)
+csv_header,policy,worker,units,finish_ms
+[mpi-static ] wall=272.0 imbalance=12.48 efficiency=62% correct=YES
+csv,mpi-static,0,200,21.80
+csv,mpi-static,1,200,269.97
+csv,mpi-static,2,200,271.98
+csv,mpi-static,3,200,21.86
+[mpi-dynamic] wall=187.7 imbalance=1.00 efficiency=90% correct=YES
+csv,mpi-dynamic,0,52,187.00
+csv,mpi-dynamic,1,58,187.07
+csv,mpi-dynamic,2,50,187.04
+csv,mpi-dynamic,3,40,187.72
